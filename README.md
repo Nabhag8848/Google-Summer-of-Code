@@ -14,6 +14,14 @@
 
 ## 📦 Deliverables
 
+## 🙌🏼 Mentors
+
+I would like to express my heartfelt gratitude to [Bárbara Zanella](https://www.linkedin.com/in/barbara-zanella/) and [Samad Yar Khan](https://www.linkedin.com/in/samad-yar-khan/), my exceptional mentors throughout this project journey. Their unwavering support and guidance have been instrumental in shaping my growth. With their insightful guidance, we held two productive meetings each week, a testament to their commitment. Their encouragement to step beyond conventional boundaries has truly been transformative, pushing me to explore innovative solutions. From enhancing user-centric aspects to intricate technical implementations, their mentorship covered every aspect. In the face of diverse challenges at every juncture, their expertise helped us conquer each obstacle with determination.
+
+![Team(1)](https://github.com/Nabhag8848/GoogleSummerOfCode/assets/65061890/e33b8b4c-598d-40e8-978a-b0ad4414a23f)
+
+I Extend my sincere thanks to Sing Li and the community for their invaluable contributions. Their insights and alerts on project direction have been invaluable, enhancing the project's usability. The continuous feedback loop created by this collaborative effort has been pivotal in our project's evolution. Without this constant stream of input, our progress would not have been as remarkable. I am truly grateful for the guidance and support provided by both my mentors and the community, as they have been pivotal in making this journey an enriching and successful one.
+
 ## 👤 About Me
 
 I'm Nabhag, a final-year Computer Engineering student from India, driven by a deep passion for Engineering. Beyond my academics, I'm devoted to crafting Plugins and Integrations that seamlessly connect various products, resulting in substantial impacts. I’m an active Contributor in the Rocket.Chat Apps Community, and I firmly believe in transparently sharing my learning journey and progress. This involvement has opened doors to exciting opportunities, allowing me to shape platform integrations and extensions. Every Hackathon fuels my passion for designing innovative plugins, while my broader focus extends to creating developer tools and products that enhance the overall developer experience. Embracing the world of open source empowers me to work on projects close to my heart. While my primary identity revolves around being an OpenSource Contributor, I've also had the honor of taking part in Google Summer of Code, which has added another layer of enrichment to my journey.
