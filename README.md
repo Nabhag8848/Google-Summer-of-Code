@@ -170,6 +170,9 @@ https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/36a5e89f-4ed
 
 </div>
 
+## 🔜 Whats Next ?
+I plan to continue enhancing the integration by focusing on two key features. Firstly, I'll be working on implementing the `Update Table Entries` feature, which will empower users to modify and manage data within Notion tables directly from RocketChat. This aims to provide a comprehensive data manipulation capability, enhancing the integration's practicality. Additionally, I'll be involved in shifting the Notion Page Markdown conversion to a NPM module. This transition will streamline the process of converting content from Notion pages to markdown, ensuring efficiency and compatibility and I'm excited to contribute to its continued evolution beyond the GSoC period.
+
 ## 🙌🏼 Mentors
 
 I would like to express my heartfelt gratitude to [Bárbara Zanella](https://www.linkedin.com/in/barbara-zanella/) and [Samad Yar Khan](https://www.linkedin.com/in/samad-yar-khan/), my exceptional mentors throughout this project journey. Their unwavering support and guidance have been instrumental in shaping my growth. With their insightful guidance, we held two productive meetings each week, a testament to their commitment. Their encouragement to step beyond conventional boundaries has truly been transformative, pushing me to explore innovative solutions. From enhancing user-centric aspects to intricate technical implementations, their mentorship covered every aspect. In the face of diverse challenges at every juncture, their expertise helped us conquer each obstacle with determination.
