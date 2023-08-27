@@ -10,7 +10,14 @@
 `Integrate Notion Via RC App` prioritizes teamwork by enhancing collaboration for workspace users. Imagine having the power of two essential platforms, RocketChat and Notion, united as one, eliminating the need to switch between two platforms. Teams can Seamlessly Connect, Effortlessly Manage various Notion Workspaces, Share documents, and Even View Documents all within RocketChat. The real magic lies in Preserving your Important message inside the Notion Page, Structured within the Notion Database, ensuring vital discussions, decisions, and insights are never lost again, fostering alignment and inclusivity as everyone stays on the same page, even if they're not actively chatting. Whether it's brainstorming sessions, meeting notes, or shared links, find them all in one organized place. Plus, Create Comments on the Notion Page, view the Notion Database, and interact with relevant information.Welcome to a new era of streamlined collaboration, Where RocketChat and Notion work together seamlessly to fuel your team's success.
 
 ## 🌅 Glimpse of Project
--  These Video is recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors like me will Showcase Amazing Projects they have been working on under Coding Period.
+-  These Video is recording of Rocket.Chat's Google Summer of Code Project Demo Day 2023, Where Contributors like me Showcase Amazing Projects they have been working on under Coding Period. 
+  <p align = "center" > <strong>Tap to View </strong></p>
+<p align="center">
+       
+<a href="https://www.youtube.com/watch?v=G1fZBqy5jp8">
+<img src="http://img.youtube.com/vi/G1fZBqy5jp8/0.jpg">
+ </a>
+</p>
 
 ## 📦 Deliverables
 
