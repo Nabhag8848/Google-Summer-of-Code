@@ -81,33 +81,43 @@ https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/a23e9be0-018
 
 The ability to create Notion pages or records directly from RocketChat via integration offers users remarkable convenience. For example, imagine a project discussion taking place in a RocketChat channel. With this feature, a team member can instantly initiate a new Notion page to capture meeting notes, action items, and decisions within the same conversation flow. This streamlined process eliminates the need to switch between platforms, empowering users to seamlessly document and collaborate in real-time, thus enhancing efficiency and knowledge retention.
 
-
 https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/bd90bf55-5ee6-45e4-b7f0-febc02f2a6db
 
 https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/21a453e3-87b3-4d6f-8bd5-01ad9ba3cf92
-
-
 
 ### 6. Create Notion Database:
 
 Enabling users to create Notion tables directly from RocketChat through integration provides a valuable tool for organized data management. For instance, consider a project manager coordinating tasks in a RocketChat workspace. With this feature, the manager can effortlessly generate a structured Notion table to track project milestones, deadlines, and responsible team members, all within the familiar chat environment. This seamless process enhances task tracking and collaboration, ensuring that vital project details are systematically recorded and easily accessible, thereby promoting efficiency and informed decision-making.
 
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/b1b7a020-ce59-441c-a529-bb0f92d965a4
+
 ### 7. Share Notion Page: 
 Sharing Notion pages directly from RocketChat via App offers users a streamlined approach to disseminate information and collaborate effectively. For instance, envision a team discussing a marketing campaign in a RocketChat channel. Using this feature, a team member can instantly share a relevant Notion page containing campaign details, strategies, and visuals without leaving the conversation. This seamless sharing enhances communication by providing context-rich information, minimizing the need for context-switching between platforms. As a result, teams can make informed decisions swiftly, boosting alignment and driving projects forward efficiently.
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/322e7775-e500-400c-9c56-4f7002116bab
 
 ### 8. Comment On Page: 
 The ability to comment on Notion pages directly from RocketChat offers users a powerful tool for collaborative discussions. For example, picture a design review discussion happening in a RocketChat channel. Utilizing this feature, team members can provide feedback, suggestions, and insights directly on a shared Notion page dedicated to the design. This seamless process keeps conversations and feedback contextualized within the project's documentation, fostering efficient communication and informed decision-making. As a result, teams can iterate and refine their work effectively, ensuring alignment and accelerating project progress.
 
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/08728dde-4e35-45a3-8d88-58680ce7f8d2
+
 ### 9. View Shared Notion Page: 
 Viewing shared Notion pages from RocketChat via integration empowers users with immediate access to critical information, bolstering collaboration and decision-making. For example, imagine a team member reviewing a Notion page shared in a RocketChat channel, outlining intricate project details. By effortlessly viewing this page within the same chat environment, the user gains a comprehensive understanding of the campaign's scope, goals, and strategies. This eliminates the need to navigate to a separate platform, ensuring focused discussions and enabling quicker consensus-building. Ultimately, this feature enriches engagement and accelerates project momentum by consolidating information within the conversation space.
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/befbff18-3dd7-4575-a4e3-7cdbd3d4f532
 
 ### 10. Preserve Message in Notion Page:
 #### Preserve in Existing Page:
 Preserving RocketChat messages within an Existing Notion page through integration offers users a powerful means of capturing discussions and decisions seamlessly. For instance, envision a team collaborating on a product roadmap in a RocketChat channel. By utilizing this feature, team members can ensure that their valuable insights, brainstorming, and decisions are directly integrated into the associated Notion page. This functionality fosters a continuous record of thought processes and aligns discussions with documented outcomes, promoting transparency and informed actions. As a result, users can easily trace the evolution of ideas, keeping everyone on the same page and promoting a culture of inclusivity and efficiency.
 #### Preserve in New Page:
 Preserving RocketChat messages within a new Notion page or while creating entries in a database through integration offers users a powerful way to capture and contextualize discussions. For instance, imagine a project team discussing feature enhancements in a RocketChat channel. With this feature, users can effortlessly generate a dedicated Notion page or database entry linked to the ongoing conversation. This ensures that vital insights, decisions, and references are recorded alongside the relevant discussion, enhancing accountability and knowledge retention. This functionality establishes a dynamic repository that aligns communication with documentation, enabling teams to refer back to discussions and fostering collaboration with clarity and efficiency.
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/d01a927c-f296-49a2-97ca-11be8c9cd498
+
 ### 11. View Notion Table: 
 Viewing Notion tables directly within RocketChat through integration offers users a valuable tool for data analysis and collaboration. For example, consider a sales team tracking leads and conversions in a Notion database. By accessing and viewing this table within a RocketChat channel, team members can quickly assess sales trends, monitor progress, and discuss strategies without leaving the chat environment. This streamlined approach enhances real-time decision-making and encourages collaborative insights, minimizing the need for platform-switching. Ultimately, this feature empowers teams to stay informed and aligned, fostering efficient teamwork and informed actions.
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/36a5e89f-4ed6-42e0-b503-2729e334a045
 
 ### Upcoming Feature:
 - Certainly, the ability to Update Notion tables directly from RocketChat remains an upcoming feature within the integration. This enhancement will allow users to make changes and modifications to Notion tables seamlessly after the initial creation. While this functionality falls under the category of extra features rather than deliverables, it promises to provide users with an extended capability to manage and edit data within the integrated workspace. This feature aligns with the integration's focus on streamlining collaboration and boosting productivity by maintaining consistent access to, and manipulation of, crucial information.
