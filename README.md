@@ -50,9 +50,15 @@
 
 Once the app is installed from the marketplace and enabled for use, users will automatically receive a helper notification in the direct room that provides simple and user-friendly instructions on how to use the integration.
 
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/f8ce0b29-095b-4f84-884a-e26c0df36136
+
+
 ### 2. Helper Message:
 
 The `/notion help` command serves as a valuable command for users who might require a Quick Refresher. This command ensures that users can easily retrieve essential information, providing a convenient way to use App. 
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/ae120c49-cbcc-48d7-ab33-17d764fe5902
 
 ### 3. Smooth Authorization with Notion: 
 The smooth authorization process for accessing and manipulating Notion pages and databases within a specific workspace directly from Rocket.Chat involves OAuth2 Notion Authorization.  user can connect to workspace using `/notion connect` and When a user wishes to disconnect from a workspace, they can simply run the `/notion disconnect` command.
@@ -63,9 +69,13 @@ The smooth authorization process for accessing and manipulating Notion pages and
     which might not be fully supported by the Apps Engine OAuth2Client.
     3. **Extra Fields**: Notion integration requires additional fields in persistence storage,
     demanding customization of the Apps Engine to accommodate these fields.
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/580f1165-fc1f-4ca2-be1f-3d507ff4f314
     
 ### 4. Manage and Switch Between Workspace: 
 The `Manage and Switch Between Workspace` feature enables users to switch between previously connected workspaces without the need to fully disconnect from their current workspace. This smooth transition between different workspaces enhances productivity by eliminating interruptions in workflow and mitigates the risk of confusion and errors that may result from working in the wrong workspace.
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/a23e9be0-0187-4292-a498-c400235bb84d
 
 ### 5. Create a Page Or Record:
 
