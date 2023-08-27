@@ -122,6 +122,42 @@ https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/36a5e89f-4ed
 ### Upcoming Feature:
 - Certainly, the ability to Update Notion tables directly from RocketChat remains an upcoming feature within the integration. This enhancement will allow users to make changes and modifications to Notion tables seamlessly after the initial creation. While this functionality falls under the category of extra features rather than deliverables, it promises to provide users with an extended capability to manage and edit data within the integrated workspace. This feature aligns with the integration's focus on streamlining collaboration and boosting productivity by maintaining consistent access to, and manipulation of, crucial information.
 
+## 🚀 Contributions
+### Pull Requests
+
+<div align="center">
+
+| PR Link   | Description  | Status | 
+| :-----------: | :------------------------------------:| :------:|
+| [PR #2](https://github.com/RocketChat/Apps.Notion/pull/2) | <b> [CHORE] Initialise Notion App</b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #3](https://github.com/RocketChat/Apps.Notion/pull/3) | <b> [CHORE] Add Bug & Feature Forms Including PR Template </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #5](https://github.com/RocketChat/Apps.Notion/pull/5) | <b> [Feat] Notion Authorization with Rocket.Chat </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #14](https://github.com/RocketChat/Apps.Notion/pull/14) | <b> [Feat] Create Notion Database From RocketChat For Properties Without Configuration  </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #15](https://github.com/RocketChat/Apps.Notion/pull/15) | <b> [Feat] Create Notion Database From RocketChat For Properties Includes Configuration   </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #17](https://github.com/RocketChat/Apps.Notion/pull/17) | <b> [Feat] Provide Helper Message on /notion help having Commands as Attachment </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #18](https://github.com/RocketChat/Apps.Notion/pull/18) | <b> [Feat] Provide Helper Message OnInstallation of App </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #19](https://github.com/RocketChat/Apps.Notion/pull/19) | <b> [Feat] Comment on Notion Page </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #20](https://github.com/RocketChat/Apps.Notion/pull/20) | <b> [Feat] Create Notion Page From RocketChat  </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #21](https://github.com/RocketChat/Apps.Notion/pull/21) | <b>  [Feat] Change Between Workspace </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+
+</div>
+
+### Issues
+    
+<div align="center">
+    
+| Issue Link   | Description  | Status | 
+| :-----------: | :------------------------------------:| :------:|
+| [ISSUE #1](https://github.com/RocketChat/Apps.Notion/issues/1) | <b>[CHORE] Add Template of Opening Feature Request and Bug Issues</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #4](https://github.com/RocketChat/Apps.Notion/issues/4) | <b>[Feat] Notion Authorization with Rocket.Chat</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #6](https://github.com/RocketChat/Apps.Notion/issues/6) | <b>[Feat] Create Notion Database From RocketChat</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #7](https://github.com/RocketChat/Apps.Notion/issues/7) | <b>[Feat] Provide Helper Message on /notion help </b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #8](https://github.com/RocketChat/Apps.Notion/issues/8) | <b>[Feat] Provide Helper Message OnInstallation of App</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #9](https://github.com/RocketChat/Apps.Notion/issues/9) | <b>[Feat] Comment on Notion Page</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #11](https://github.com/RocketChat/Apps.Notion/issues/11) | <b>[Feat] Change Between Workspace</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+
+</div>
+
 ## 🙌🏼 Mentors
 
 I would like to express my heartfelt gratitude to [Bárbara Zanella](https://www.linkedin.com/in/barbara-zanella/) and [Samad Yar Khan](https://www.linkedin.com/in/samad-yar-khan/), my exceptional mentors throughout this project journey. Their unwavering support and guidance have been instrumental in shaping my growth. With their insightful guidance, we held two productive meetings each week, a testament to their commitment. Their encouragement to step beyond conventional boundaries has truly been transformative, pushing me to explore innovative solutions. From enhancing user-centric aspects to intricate technical implementations, their mentorship covered every aspect. In the face of diverse challenges at every juncture, their expertise helped us conquer each obstacle with determination.
