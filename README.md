@@ -212,6 +212,7 @@ The journey has been nothing short of a rollercoaster. We tackled seemingly impo
 | **LinkedIn** | [Nabhag Motivaras](https://www.linkedin.com/in/nabhag-motivaras-460b3b1aa/) |
 | **Email** | <a href="mailto:nabhagmotivaras76@gmail.com">nabhagmotivaras76@gmail.com</a> |
 | **Rocket.Chat** | [nabhag.motivaras](https://open.rocket.chat/direct/nabhag.motivaras) |
+| **Project Github Repository** | [Apps.Notion](https://github.com/RocketChat/Apps.Notion) |
        
 </div>
 
