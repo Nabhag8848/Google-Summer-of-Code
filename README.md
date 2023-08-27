@@ -21,6 +21,30 @@
 
 ## 📦 Deliverables
 
+1.  **OnInstallation Message from Marketplace:** When users install the Notion App from the RocketChat Marketplace, they receive a welcome message that introduces the features and further using guide of the integration.
+
+2.  **Helper Message:** Users can access a helper message with usage instructions by typing `/notion help`. This message provides guidance on how to use various commands and features.
+
+3.  **Smooth Authorization with Notion:** Users can seamlessly connect their Notion account to the RocketChat workspace using the `/notion connect` command. Similarly, they can disconnect using the `/notion disconnect` command, ensuring privacy and security.
+    
+4.  **Manage Multiple Notion Workspaces and Switch Between Them:** Users can manage and switch between Notion workspaces using `/notion workspace` or `/notion ws` within RocketChat. This allows teams with different projects to collaborate effectively by connecting the appropriate Notion workspace.
+    
+5.  **Create a Page or Record:** Users can create new Notion pages or records directly from RocketChat using the `/notion create` command. This streamlines the process of initiating new collaborative documents.
+    
+6.  **Create Notion Database:** Teams can create new Notion databases using the `/notion create db` command. This enables structured data storage and management within Notion for efficient collaboration.
+    
+7.  **Sharing Notion Page:** Users can easily share Notion pages with their teammates using the `/notion share` command. This ensures that relevant information is quickly accessible to the right people.
+
+### 📝 **Extra Features or Features Which was Reevaluated:**
+    
+8.  **Comment On Page:** Teams can add comments to Notion pages directly from RocketChat using the `/notion comment` command. This feature encourages discussions and annotations within the context of the shared documents.
+    
+9.  **Viewing Shared Notion Page:** Users can view shared Notion pages within RocketChat, even if they don't actively participate. This ensures that important information is readily available to everyone.
+    
+10.  **Preserve Message in Notion Page (Optional New Page Structured within a Database:** Users can choose to preserve RocketChat messages within a Notion page, structuring it within a database or while creating new task. This feature ensures that valuable discussions, decisions, and insights are captured in the appropriate context for future reference.
+
+11. **View Notion Table and Update Database Entries:** Teams can view Notion database tables and update entries using the `/notion view` command. This facilitates collaborative data management without leaving RocketChat.
+
 ## 🙌🏼 Mentors
 
 I would like to express my heartfelt gratitude to [Bárbara Zanella](https://www.linkedin.com/in/barbara-zanella/) and [Samad Yar Khan](https://www.linkedin.com/in/samad-yar-khan/), my exceptional mentors throughout this project journey. Their unwavering support and guidance have been instrumental in shaping my growth. With their insightful guidance, we held two productive meetings each week, a testament to their commitment. Their encouragement to step beyond conventional boundaries has truly been transformative, pushing me to explore innovative solutions. From enhancing user-centric aspects to intricate technical implementations, their mentorship covered every aspect. In the face of diverse challenges at every juncture, their expertise helped us conquer each obstacle with determination.
