@@ -139,6 +139,12 @@ https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/36a5e89f-4ed
 | [PR #19](https://github.com/RocketChat/Apps.Notion/pull/19) | <b> [Feat] Comment on Notion Page </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
 | [PR #20](https://github.com/RocketChat/Apps.Notion/pull/20) | <b> [Feat] Create Notion Page From RocketChat  </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
 | [PR #21](https://github.com/RocketChat/Apps.Notion/pull/21) | <b>  [Feat] Change Between Workspace </b>  | <img src="https://i.imgur.com/tskv8MM.png" width=55 height=40> |
+| [PR #22](https://github.com/RocketChat/Apps.Notion/pull/22) | <b>  [Feat] Create Notion Record From RC </b>  | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40> |
+| [PR #24](https://github.com/RocketChat/Apps.Notion/pull/24) | <b>  [Feat] Share Docs and Intiaitives From RC </b>  | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40> |
+| [PR #26](https://github.com/RocketChat/Apps.Notion/pull/26) | <b>  [Feat] Preserve RocketChat Message in New and Existing Notion Page </b>  | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40> |
+| [PR #28](https://github.com/RocketChat/Apps.Notion/pull/28) | <b>  [Feat] View Notion Table inside RC </b>  | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40> |
+| [PR #30](https://github.com/RocketChat/Apps.Notion/pull/30) | <b>  [DOCS] updated readme to include setup and general info about app </b>  | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40> |
+| [PR #31](https://github.com/RocketChat/Apps.Notion/pull/31) | <b>  [Feat] View Notion Page Inside RocketChat Channel  </b>  | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40> |
 
 </div>
 
@@ -155,6 +161,12 @@ https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/36a5e89f-4ed
 | [ISSUE #8](https://github.com/RocketChat/Apps.Notion/issues/8) | <b>[Feat] Provide Helper Message OnInstallation of App</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
 | [ISSUE #9](https://github.com/RocketChat/Apps.Notion/issues/9) | <b>[Feat] Comment on Notion Page</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
 | [ISSUE #11](https://github.com/RocketChat/Apps.Notion/issues/11) | <b>[Feat] Change Between Workspace</b> | <img src="https://i.imgur.com/ihaDyZS.png" width=55 height=40>
+| [ISSUE #10](https://github.com/RocketChat/Apps.Notion/issues/10) | <b>[Feat] Create Notion Page and Record</b> | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>
+| [ISSUE #16](https://github.com/RocketChat/Apps.Notion/issues/16) | <b>[Feat] Gitpodify App with Updates in ReadME </b> | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>
+| [ISSUE #23](https://github.com/RocketChat/Apps.Notion/issues/23) | <b>[Feat] Share Docs and Intiaitives From RC </b> | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>
+| [ISSUE #25](https://github.com/RocketChat/Apps.Notion/issues/25) | <b>[Feat] Preserve RocketChat Message in New and Existing Notion Page </b> | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>
+| [ISSUE #27](https://github.com/RocketChat/Apps.Notion/issues/27) | <b>[Feat] View Notion Table inside RC </b> | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>
+| [ISSUE #29](https://github.com/RocketChat/Apps.Notion/issues/29) | <b>[Feat] View Notion Page Inside RocketChat Channel </b> | <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>
 
 </div>
 
