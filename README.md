@@ -45,6 +45,39 @@
 
 11. **View Notion Table and Update Database Entries:** Teams can view Notion database tables and update entries using the `/notion view` command. This facilitates collaborative data management without leaving RocketChat.
 
+## 📺 Demo 
+### 1. OnInstallation Message from Marketplace:
+
+Once the app is installed from the marketplace and enabled for use, users will automatically receive a helper notification in the direct room that provides simple and user-friendly instructions on how to use the integration.
+
+### 2. Helper Message:
+
+The "/notion help" command serves as a valuable command for users who might require a Quick Refresher. This command ensures that users can easily retrieve essential information, providing a convenient way to use App. 
+
+### 3. Smooth Authorization with Notion: 
+The smooth authorization process for accessing and manipulating Notion pages and databases within a specific workspace directly from Rocket.Chat involves OAuth2 Notion Authorization.  user can connect to workspace using `/notion connect` and When a user wishes to disconnect from a workspace, they can simply run the `/notion disconnect` command.
+- The implementation of this feature have been done using backward compatible approach and not using the Apps Engine framework's due to some limitations in Notion OAuth2 handling. Notably:
+    1. **Basic HTTP Authentication**: Notion recommends using Basic HTTP Authentication during the access_token request.
+    However, the Apps Engine OAuth2Client may not support this functionality at present.
+    2. **Credential Format**: Notion advises providing credentials in the form of `Basic CLIENTID:CLIENTSECRET` in base64 format,
+    which might not be fully supported by the Apps Engine OAuth2Client.
+    3. **Extra Fields**: Notion integration requires additional fields in persistence storage,
+    demanding customization of the Apps Engine to accommodate these fields.
+    
+### 4. Manage and Switch Between Workspace: 
+The `Manage and Switch Between Workspace` feature enables users to switch between previously connected workspaces without the need to fully disconnect from their current workspace. This smooth transition between different workspaces enhances productivity by eliminating interruptions in workflow and mitigates the risk of confusion and errors that may result from working in the wrong workspace.
+
+### 5. Create a Page Or Record:
+
+### 6. Create Notion Database:
+### 7. Share Notion Page: 
+### 8. Comment On Page: 
+### 9. View Shared Notion Page: 
+### 10. Preserve Message in Notion Page:
+#### Preserve in Existing Page:
+#### Preserve in New Page:
+### 11. View Notion Table: 
+
 ## 🙌🏼 Mentors
 
 I would like to express my heartfelt gratitude to [Bárbara Zanella](https://www.linkedin.com/in/barbara-zanella/) and [Samad Yar Khan](https://www.linkedin.com/in/samad-yar-khan/), my exceptional mentors throughout this project journey. Their unwavering support and guidance have been instrumental in shaping my growth. With their insightful guidance, we held two productive meetings each week, a testament to their commitment. Their encouragement to step beyond conventional boundaries has truly been transformative, pushing me to explore innovative solutions. From enhancing user-centric aspects to intricate technical implementations, their mentorship covered every aspect. In the face of diverse challenges at every juncture, their expertise helped us conquer each obstacle with determination.
