@@ -81,6 +81,12 @@ https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/a23e9be0-018
 
 The ability to create Notion pages or records directly from RocketChat via integration offers users remarkable convenience. For example, imagine a project discussion taking place in a RocketChat channel. With this feature, a team member can instantly initiate a new Notion page to capture meeting notes, action items, and decisions within the same conversation flow. This streamlined process eliminates the need to switch between platforms, empowering users to seamlessly document and collaborate in real-time, thus enhancing efficiency and knowledge retention.
 
+
+https://github.com/Nabhag8848/Google-Summer-of-Code/assets/65061890/bd90bf55-5ee6-45e4-b7f0-febc02f2a6db
+
+
+
+
 ### 6. Create Notion Database:
 
 Enabling users to create Notion tables directly from RocketChat through integration provides a valuable tool for organized data management. For instance, consider a project manager coordinating tasks in a RocketChat workspace. With this feature, the manager can effortlessly generate a structured Notion table to track project milestones, deadlines, and responsible team members, all within the familiar chat environment. This seamless process enhances task tracking and collaboration, ensuring that vital project details are systematically recorded and easily accessible, thereby promoting efficiency and informed decision-making.
